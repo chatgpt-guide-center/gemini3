@@ -11,7 +11,7 @@ Gemini 3 Pro 最大的亮点在于其 **100万 token 超长上下文窗口**和�
 **快速访问通道**
 
 **🚀 Gemini 中文版官方入口**  
-[https://ai.lanjingchat.com](https://ai.lanjingchat.com) - 国内直连，无需翻墙，完整支持 Gemini 2.5 Pro
+[https://chat.aihuoya.com/](https://chat.aihuoya.com/) - 国内直连，无需翻墙，完整支持 Gemini 2.5 Pro
 
 **🌐 Gemini 镜像站推荐**  
 [https://xsimplechat.com](https://xsimplechat.com) - 集成多个主流 AI 模型，功能强大
@@ -20,7 +20,7 @@ Gemini 3 Pro 最大的亮点在于其 **100万 token 超长上下文窗口**和�
 [https://gptokk.com](https://gptokk.com) - 国内聚合站，支持 Gemini、ChatGPT、Claude、Grok 等主流 AI 模型
 
 **Gemini 中文站：**  
-[https://chat.aihuoya.com/](https://chat.aihuoya.com/) - 集成主流模型，支持 Gemini、ChatGPT、Claude、Grok 等主流 AI 模型 API。
+[https://gemini-cn.com/](https://gemini-cn.com/) - 集成主流模型，支持 Gemini、ChatGPT、Claude、Grok 等主流 AI 模型 API。
     
 ![Google Gemini 3 发布会现场图 - Gemini 3 性能图表](https://imgtolinkx.com/i/30muJgs9)
 
